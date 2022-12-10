@@ -6,6 +6,10 @@
 - Tải file json authen tại https://console.cloud.google.com/apis/dashboard mục Credentials phần OAuth 2.0 Client IDs. Lần đầu tiên chạy app có thể sẽ phải cấp quyền cho tài khoản gmail để đăng video lên youtube.
 - Bản ổn định hiện tại: v1.0.0
 
+
+*Bản 1.1.0:
+- thay doi ten mota video thanh #tenweb  va link san pham.
+
 *Bản 1.0.0:
 - Tải danh sách sản phẩm từ woocommerce.
 - Tải ảnh từ sản phẩm lấy được, tự động dùng https://video.online-convert.com/convert-to-mp4 để tạo video.
