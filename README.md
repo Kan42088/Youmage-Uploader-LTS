@@ -4,11 +4,15 @@
 - Phần mềm là file rar trong file được tải về.
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Tải file json authen tại https://console.cloud.google.com/apis/dashboard mục Credentials phần OAuth 2.0 Client IDs. Lần đầu tiên chạy app có thể sẽ phải cấp quyền cho tài khoản gmail để đăng video lên youtube.
-- Bản ổn định hiện tại: v1.0.0
+- Bản ổn định hiện tại: v1.3.1
 
+*Bản 1.3.1:
+- kiểm tra quá trình tải ảnh lên trang video.online-convert;
+- sửa lỗi lấy video tag.
+- Cho phép bật tắt hiển thị quá trình tải của browser.
 
 *Bản 1.1.0:
-- thay doi ten mota video thanh #tenweb  va link san pham.
+- thay đổi tên mô tả video thành "(#tên web) (link sản phẩm)" .
 
 *Bản 1.0.0:
 - Tải danh sách sản phẩm từ woocommerce.
