@@ -6,6 +6,9 @@
 - Tải file json authen tại https://console.cloud.google.com/apis/dashboard mục Credentials phần OAuth 2.0 Client IDs. Lần đầu tiên chạy app có thể sẽ phải cấp quyền cho tài khoản gmail để đăng video lên youtube.
 - Bản ổn định hiện tại: v1.3.1
 
+*Bản 1.4.1:
+- Sửa lỗi upload video lên youtube bị đứng sau khi tải video đầu.
+
 *Bản 1.4.0:
 - Tùy chỉnh title và desc của video (bao gồm các snippet variables);
 
