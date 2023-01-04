@@ -7,6 +7,9 @@
 - Khi dùng phương thức tải video bằng api, key api được lấy từ: https://account.api2convert.com/user/apikeys
 - Bản ổn định hiện tại: v1.5.2
 
+*Bản 1.8.2:
+- Hiển thị innerException để bắt lỗi chưa xác định.
+
 *Bản 1.8.0:
 - Thêm bộ lọc sản phẩm theo thời gian.
 - Thêm tùy chọn bộ lọc cho sản phẩm.
