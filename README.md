@@ -7,6 +7,9 @@
 - Khi dùng phương thức tải video bằng api, key api được lấy từ: https://account.api2convert.com/user/apikeys
 - Bản ổn định hiện tại: v1.5.2
 
+*Bản 1.8.5:
+- Thêm hàng đợi phản hồi từ server api2convert.
+
 *Bản 1.8.4:
 - Chuyển đổi gọi api qua resharp thành httpwebrequest.
 
