@@ -9,6 +9,9 @@
 - Bản ổn định hiện tại: v1.5.2
 
 *Bản 1.8.5:
+- Thêm tính năng xử lý video bằng FFmpeg.
+
+*Bản 1.8.5:
 - Thêm hàng đợi phản hồi từ server api2convert.
 
 *Bản 1.8.4:
