@@ -4,7 +4,8 @@
 - Phần mềm là file rar trong file được tải về.
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Tải file json authen tại https://console.cloud.google.com/apis/dashboard mục Credentials phần OAuth 2.0 Client IDs. Lần đầu tiên chạy app có thể sẽ phải cấp quyền cho tài khoản gmail để đăng video lên youtube.
-- Khi dùng phương thức tải video bằng api, key api được lấy từ: https://account.api2convert.com/user/apikeys
+- Khi dùng phương thức tải video bằng api, key api được lấy từ: https://account.api2convert.com/user/apikeys .
+- Khi dùng phương thức xử lí bằng FFmpeg phải cài đặt ffmpeg tại https://www.gyan.dev/ffmpeg/builds/ .
 - Bản ổn định hiện tại: v1.5.2
 
 *Bản 1.8.5:
