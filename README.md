@@ -6,9 +6,13 @@
 - Tải file json authen tại https://console.cloud.google.com/apis/dashboard mục Credentials phần OAuth 2.0 Client IDs. Lần đầu tiên chạy app có thể sẽ phải cấp quyền cho tài khoản gmail để đăng video lên youtube.
 - Khi dùng phương thức tải video bằng api, key api được lấy từ: https://account.api2convert.com/user/apikeys .
 - Khi dùng phương thức xử lí bằng FFmpeg phải cài đặt ffmpeg tại https://www.gyan.dev/ffmpeg/builds/ .
-- Bản ổn định hiện tại: v1.5.2
+- Bản ổn định hiện tại: v199.2
 
-*Bản 1.8.5:
+*Bản 1.9.2:
+- Thêm tính năng xử lý video bằng FFmpeg.
+- Nên copy dữ liệu trên các control nhập liệu, không nên copy file config do cấu hình của google không tương thích ngược.
+
+*Bản 1.9.0:
 - Thêm tính năng xử lý video bằng FFmpeg.
 
 *Bản 1.8.5:
