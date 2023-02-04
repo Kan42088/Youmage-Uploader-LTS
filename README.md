@@ -2,11 +2,15 @@
 
 *Note: 
 - Phần mềm là file rar trong file được tải về.
-- Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Tải file json authen tại https://console.cloud.google.com/apis/dashboard mục Credentials phần OAuth 2.0 Client IDs. Lần đầu tiên chạy app có thể sẽ phải cấp quyền cho tài khoản gmail để đăng video lên youtube.
+- Khi dùng phương thức tải video bằng browser, đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Khi dùng phương thức tải video bằng api, key api được lấy từ: https://account.api2convert.com/user/apikeys .
 - Khi dùng phương thức xử lí bằng FFmpeg phải cài đặt ffmpeg tại https://www.gyan.dev/ffmpeg/builds/ .
-- Bản ổn định hiện tại: v199.2
+- Bản ổn định hiện tại: v1.10.0
+
+*Bản 1.10.0:
+- Thêm tính năng cho phép tải video về thư mục được chọn.
+- Cho phép lựa chọn upload hoặc không upload lên youtube.
 
 *Bản 1.9.2:
 - Thêm tính năng xử lý video bằng FFmpeg.
