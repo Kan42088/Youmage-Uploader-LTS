@@ -6,7 +6,10 @@
 - Khi dùng phương thức tải video bằng browser, đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Khi dùng phương thức tải video bằng api, key api được lấy từ: https://account.api2convert.com/user/apikeys .
 - Khi dùng phương thức xử lí bằng FFmpeg phải cài đặt ffmpeg tại https://www.gyan.dev/ffmpeg/builds/ .
-- Bản ổn định hiện tại: v1.10.0
+- Bản ổn định hiện tại: v1.11.0
+
+*Bản 1.11.0:
+- Thêm tính năng export các sản phẩm đã được xử lý ảnh thành công ra file excel.
 
 *Bản 1.10.0:
 - Thêm tính năng cho phép tải video về thư mục được chọn.
