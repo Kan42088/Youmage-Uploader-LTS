@@ -9,7 +9,7 @@
 - Bản ổn định hiện tại: v1.11.0
 
 *Bản 1.11.0:
-- Thêm tính năng export các sản phẩm đã được xử lý ảnh thành công ra file excel.
+- Thêm tính năng export các sản phẩm đã được xử lý video thành công ra file excel.
 
 *Bản 1.10.0:
 - Thêm tính năng cho phép tải video về thư mục được chọn.
